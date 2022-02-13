@@ -54,11 +54,11 @@ body {
     line-height: 60px;
     margin-top: -2em;
     margin-right: 8em;
-    animation-name: rotate;
+    animation-name: rotation;
      animation-duration: 6s;
 }
 
-@keyframes rotate {
+@keyframes rotation {
    0% {
      transform: rotate(0);
    }

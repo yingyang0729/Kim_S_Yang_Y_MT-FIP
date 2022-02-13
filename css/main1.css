@@ -192,13 +192,12 @@
     color: #333;
     letter-spacing: -1px;
     line-height: 60px;
-    -webkit-animation: 5s linear 0s infinite alternate move_eye;
-    animation: 5s linear 0s infinite alternate move_eye;
+    -webkit-animation: 5s linear 0s infinite alternate wave_eye;
+    animation: 5s linear 0s infinite alternate wave_eye;
 }
 
-@-webkit-keyframes move_eye { from { margin-left: -50%; } to { margin-left: 100%; }  }
-  @keyframes move_eye { from { margin-left: -50%; } to { margin-left: 100%; }  }
+@-webkit-keyframes wave_eye { from { margin-left: -50%; } to { margin-left: 100%; }  }
+  @keyframes wave_eye { from { margin-left: -50%; } to { margin-left: 100%; }  }
 }
 
 
-}
