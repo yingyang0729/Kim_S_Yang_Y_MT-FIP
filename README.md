@@ -29,7 +29,7 @@ The Midterm project is finished by Sian Kim and Ying Yang.
 5. Ying Yang added the CSS animations on Page 1 and Page 5;
 6. Ying Yang wrote the readme file;
 7. Sian Kim pushed all her file into the branch des.sak.bio;
-8. Ying Yang pushed all her file into the branch dev.yy.web;
+8. Ying Yang pushed all her file into the branch dev.yy.we;
 9. Ying Yang merged all files into main branch;
 
 
