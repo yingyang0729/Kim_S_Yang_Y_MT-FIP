@@ -17,8 +17,9 @@ The contributor is Ying Yang and Sian Kim. The folders and the files can be anno
 3. images-it contains all image files;
 4. includes-it contains 1 PDF file and 1 text file. The PDF is for semantic tagging and doucment outline;
 5. js-it contains a blank text file;
-6. Page1-Page5_index.html;
-7. One README.md file.
+6. fonts-all fonts files;
+7. Page1-Page5_index.html;
+8. One README.md file.
 
 ## History
 TODO: 
