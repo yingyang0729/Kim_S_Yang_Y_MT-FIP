@@ -1,0 +1,137 @@
+#mainHeader {
+    width: 80%;
+    height: 80px;
+    margin:0 auto;
+    display: flex;
+    /*justify-content: space-between;*/
+    align-items: center;
+    /*justify-content: space-around;*/
+    
+}
+
+#logo {
+    background-color: black;
+    color:antiquewhite;
+    width: 200px;
+    height: 70px;
+    text-align: center;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+
+#nav {
+    background-color: black;
+    color:antiquewhite;
+    margin-left: 30px;
+    height: 70px;
+    width: 1400px;
+    text-align:center;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.wrapper {
+    display: grid;
+    grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+    gap: 60px 40px;
+    
+  }
+  
+.wrapper > div {
+    background-color: black;
+    color: antiquewhite;
+    margin-top: 80px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 60%;
+    height: 350px;
+    display: flex;
+    text-align:center;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+  }
+  
+  
+
+
+
+
+/*---*/
+
+.footerNav {
+    width: 80%;
+    height: 80px;
+    margin:0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    margin-top: 110px;
+    margin-bottom: 160px;
+    
+    
+}
+#footerNav1 {
+    width: 189px;
+    height: 189px;
+    background-color: black;
+    color: antiquewhite;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#footerNav2 {
+    width: 189px;
+    height: 189px;
+    background-color: black;
+    color: antiquewhite;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#footerNav3 {
+    width: 189px;
+    height: 189px;
+    background-color: black;
+    color: antiquewhite;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#footerNav4 {
+    width: 189px;
+    height: 189px;
+    background-color: black;
+    color: antiquewhite;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#footerNav5 {
+    width: 189px;
+    height: 189px;
+    background-color: black;
+    color: antiquewhite;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#copyRight {
+    width: 80%;
+    height: 110px;
+    margin:0 auto;
+    display: flex;
+    background-color: black;
+    color: antiquewhite;
+    justify-content:center;
+    align-items:center;
+}

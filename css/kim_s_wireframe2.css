@@ -1,0 +1,181 @@
+
+#mainHeader {
+    width: 80%;
+    height: 80px;
+    margin:0 auto;
+    display: flex;
+    /*justify-content: space-between;*/
+    align-items: center;
+    /*justify-content: space-around;*/
+    
+}
+
+#Logo {
+    background-color: black;
+    color:antiquewhite;
+    width: 200px;
+    height: 70px;
+    text-align: center;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+
+#nav {
+    background-color: black;
+    color:antiquewhite;
+    margin-left: 30px;
+    height: 70px;
+    width: 1400px;
+    text-align:center;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.promoImage {
+    width: 80%;
+    height: 560px;
+    margin:0 auto;
+    text-align: center;
+    color: antiquewhite;
+    background-color: black;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    margin-top: 20px;
+}
+
+
+.historyofbrand1 {
+    margin:0 auto;
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    height: 130px;
+    color: antiquewhite;
+    margin-top: 30px;
+}
+
+.historyofbrand1-1 {
+    margin-top: 10px;
+    background-color: black;
+    width: 50%;
+    text-align: center;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.historyofbrand1-2 {
+    margin-top: 10px;
+    background-color: black;
+    width: 50%;
+    text-align: center;
+    margin-left: 50px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.historyofbrand2 {
+    margin-left: 51.8%;
+    margin-right: 280px;
+}
+
+.HistoryOfBrand2-1 {
+    margin-top: 10px;
+    background-color: black;
+    height: 130px;
+    text-align: center;
+    color: antiquewhite;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.HistoryOfBrand2-2 {
+    margin-top: 10px;
+    background-color: black;
+    height: 130px;
+    text-align: center;
+    color: antiquewhite;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.footerNav {
+    width: 80%;
+    height: 80px;
+    margin:0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    margin-top: 110px;
+    margin-bottom: 160px;
+    
+    
+}
+#footerNav1 {
+    width: 189px;
+    height: 189px;
+    background-color: black;
+    color: antiquewhite;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#footerNav2 {
+    width: 189px;
+    height: 189px;
+    background-color: black;
+    color: antiquewhite;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#footerNav3 {
+    width: 189px;
+    height: 189px;
+    background-color: black;
+    color: antiquewhite;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#footerNav4 {
+    width: 189px;
+    height: 189px;
+    background-color: black;
+    color: antiquewhite;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#footerNav5 {
+    width: 189px;
+    height: 189px;
+    background-color: black;
+    color: antiquewhite;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#copyRight {
+    width: 80%;
+    height: 110px;
+    margin:0 auto;
+    display: flex;
+    background-color: black;
+    color: antiquewhite;
+    justify-content:center;
+    align-items:center;
+}
